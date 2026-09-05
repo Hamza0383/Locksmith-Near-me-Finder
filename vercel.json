@@ -1,0 +1,1591 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/access-control-systems.html",
+      "destination": "/access-control-systems",
+      "permanent": true
+    },
+    {
+      "source": "/automotive-locksmith-services.html",
+      "destination": "/automotive-locksmith-services",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-locksmith-services.html",
+      "destination": "/commercial-locksmith-services",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-locksmith-services.html",
+      "destination": "/emergency-locksmith-services",
+      "permanent": true
+    },
+    {
+      "source": "/key-duplication-and-cutting.html",
+      "destination": "/key-duplication-and-cutting",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/lock-installation-and-replacement.html",
+      "destination": "/lock-installation-and-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/lock-repair-services.html",
+      "destination": "/lock-repair-services",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-adelanto.html",
+      "destination": "/locksmith-adelanto",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-alameda.html",
+      "destination": "/locksmith-alameda",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-alhambra.html",
+      "destination": "/locksmith-alhambra",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-aliso-viejo.html",
+      "destination": "/locksmith-aliso-viejo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-altadena.html",
+      "destination": "/locksmith-altadena",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-anaheim.html",
+      "destination": "/locksmith-anaheim",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-antelope.html",
+      "destination": "/locksmith-antelope",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-antioch.html",
+      "destination": "/locksmith-antioch",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-apple-valley.html",
+      "destination": "/locksmith-apple-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-arcadia.html",
+      "destination": "/locksmith-arcadia",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-arden-arcade.html",
+      "destination": "/locksmith-arden-arcade",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-atascadero.html",
+      "destination": "/locksmith-atascadero",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-atwater.html",
+      "destination": "/locksmith-atwater",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-azusa.html",
+      "destination": "/locksmith-azusa",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-bakersfield.html",
+      "destination": "/locksmith-bakersfield",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-baldwin-park.html",
+      "destination": "/locksmith-baldwin-park",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-banning.html",
+      "destination": "/locksmith-banning",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-beaumont.html",
+      "destination": "/locksmith-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-bell.html",
+      "destination": "/locksmith-bell",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-bell-gardens.html",
+      "destination": "/locksmith-bell-gardens",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-bellflower.html",
+      "destination": "/locksmith-bellflower",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-belmont.html",
+      "destination": "/locksmith-belmont",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-benicia.html",
+      "destination": "/locksmith-benicia",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-berkeley.html",
+      "destination": "/locksmith-berkeley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-beverly-hills.html",
+      "destination": "/locksmith-beverly-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-bloomington.html",
+      "destination": "/locksmith-bloomington",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-brawley.html",
+      "destination": "/locksmith-brawley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-brea.html",
+      "destination": "/locksmith-brea",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-brentwood.html",
+      "destination": "/locksmith-brentwood",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-buena-park.html",
+      "destination": "/locksmith-buena-park",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-burbank.html",
+      "destination": "/locksmith-burbank",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-burlingame.html",
+      "destination": "/locksmith-burlingame",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-calexico.html",
+      "destination": "/locksmith-calexico",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-camarillo.html",
+      "destination": "/locksmith-camarillo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-campbell.html",
+      "destination": "/locksmith-campbell",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-carlsbad.html",
+      "destination": "/locksmith-carlsbad",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-carmichael.html",
+      "destination": "/locksmith-carmichael",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-carson.html",
+      "destination": "/locksmith-carson",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-castro-valley.html",
+      "destination": "/locksmith-castro-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-cathedral-city.html",
+      "destination": "/locksmith-cathedral-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-ceres.html",
+      "destination": "/locksmith-ceres",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-cerritos.html",
+      "destination": "/locksmith-cerritos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-chico.html",
+      "destination": "/locksmith-chico",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-chino.html",
+      "destination": "/locksmith-chino",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-chino-hills.html",
+      "destination": "/locksmith-chino-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-chula-vista.html",
+      "destination": "/locksmith-chula-vista",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-citrus-heights.html",
+      "destination": "/locksmith-citrus-heights",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-claremont.html",
+      "destination": "/locksmith-claremont",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-clovis.html",
+      "destination": "/locksmith-clovis",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-coachella.html",
+      "destination": "/locksmith-coachella",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-colton.html",
+      "destination": "/locksmith-colton",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-compton.html",
+      "destination": "/locksmith-compton",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-concord.html",
+      "destination": "/locksmith-concord",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-corona.html",
+      "destination": "/locksmith-corona",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-costa-mesa.html",
+      "destination": "/locksmith-costa-mesa",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-covina.html",
+      "destination": "/locksmith-covina",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-culver-city.html",
+      "destination": "/locksmith-culver-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-cupertino.html",
+      "destination": "/locksmith-cupertino",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-cypress.html",
+      "destination": "/locksmith-cypress",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-daly-city.html",
+      "destination": "/locksmith-daly-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-dana-point.html",
+      "destination": "/locksmith-dana-point",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-danville.html",
+      "destination": "/locksmith-danville",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-davis.html",
+      "destination": "/locksmith-davis",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-delano.html",
+      "destination": "/locksmith-delano",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-desert-hot-springs.html",
+      "destination": "/locksmith-desert-hot-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-diamond-bar.html",
+      "destination": "/locksmith-diamond-bar",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-downey.html",
+      "destination": "/locksmith-downey",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-dublin.html",
+      "destination": "/locksmith-dublin",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-east-los-angeles.html",
+      "destination": "/locksmith-east-los-angeles",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-east-niles.html",
+      "destination": "/locksmith-east-niles",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-east-palo-alto.html",
+      "destination": "/locksmith-east-palo-alto",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-eastern-goleta-valley.html",
+      "destination": "/locksmith-eastern-goleta-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-eastvale.html",
+      "destination": "/locksmith-eastvale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-el-cajon.html",
+      "destination": "/locksmith-el-cajon",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-el-centro.html",
+      "destination": "/locksmith-el-centro",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-el-cerrito.html",
+      "destination": "/locksmith-el-cerrito",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-el-dorado-hills.html",
+      "destination": "/locksmith-el-dorado-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-el-monte.html",
+      "destination": "/locksmith-el-monte",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-el-paso-de-robles.html",
+      "destination": "/locksmith-el-paso-de-robles",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-elk-grove.html",
+      "destination": "/locksmith-elk-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-encinitas.html",
+      "destination": "/locksmith-encinitas",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-escondido.html",
+      "destination": "/locksmith-escondido",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-eureka.html",
+      "destination": "/locksmith-eureka",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fair-oaks.html",
+      "destination": "/locksmith-fair-oaks",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fairfield.html",
+      "destination": "/locksmith-fairfield",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fallbrook.html",
+      "destination": "/locksmith-fallbrook",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-florence-graham.html",
+      "destination": "/locksmith-florence-graham",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-florin.html",
+      "destination": "/locksmith-florin",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-folsom.html",
+      "destination": "/locksmith-folsom",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fontana.html",
+      "destination": "/locksmith-fontana",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-foothill-farms.html",
+      "destination": "/locksmith-foothill-farms",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-foster-city.html",
+      "destination": "/locksmith-foster-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fountain-valley.html",
+      "destination": "/locksmith-fountain-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fremont.html",
+      "destination": "/locksmith-fremont",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-french-valley.html",
+      "destination": "/locksmith-french-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fresno.html",
+      "destination": "/locksmith-fresno",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-fullerton.html",
+      "destination": "/locksmith-fullerton",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-galt.html",
+      "destination": "/locksmith-galt",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-garden-grove.html",
+      "destination": "/locksmith-garden-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-gardena.html",
+      "destination": "/locksmith-gardena",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-gilroy.html",
+      "destination": "/locksmith-gilroy",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-glendale.html",
+      "destination": "/locksmith-glendale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-glendora.html",
+      "destination": "/locksmith-glendora",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-goleta.html",
+      "destination": "/locksmith-goleta",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hacienda-heights.html",
+      "destination": "/locksmith-hacienda-heights",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hanford.html",
+      "destination": "/locksmith-hanford",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hawthorne.html",
+      "destination": "/locksmith-hawthorne",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hayward.html",
+      "destination": "/locksmith-hayward",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hemet.html",
+      "destination": "/locksmith-hemet",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hercules.html",
+      "destination": "/locksmith-hercules",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hesperia.html",
+      "destination": "/locksmith-hesperia",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-highland.html",
+      "destination": "/locksmith-highland",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-hollister.html",
+      "destination": "/locksmith-hollister",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-huntington-beach.html",
+      "destination": "/locksmith-huntington-beach",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-huntington-park.html",
+      "destination": "/locksmith-huntington-park",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-imperial-beach.html",
+      "destination": "/locksmith-imperial-beach",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-indio.html",
+      "destination": "/locksmith-indio",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-inglewood.html",
+      "destination": "/locksmith-inglewood",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-irvine.html",
+      "destination": "/locksmith-irvine",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-jurupa-valley.html",
+      "destination": "/locksmith-jurupa-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-habra.html",
+      "destination": "/locksmith-la-habra",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-mesa.html",
+      "destination": "/locksmith-la-mesa",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-mirada.html",
+      "destination": "/locksmith-la-mirada",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-presa.html",
+      "destination": "/locksmith-la-presa",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-puente.html",
+      "destination": "/locksmith-la-puente",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-quinta.html",
+      "destination": "/locksmith-la-quinta",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-la-verne.html",
+      "destination": "/locksmith-la-verne",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-laguna-hills.html",
+      "destination": "/locksmith-laguna-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-laguna-niguel.html",
+      "destination": "/locksmith-laguna-niguel",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lake-elsinore.html",
+      "destination": "/locksmith-lake-elsinore",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lake-forest.html",
+      "destination": "/locksmith-lake-forest",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lakewood.html",
+      "destination": "/locksmith-lakewood",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lancaster.html",
+      "destination": "/locksmith-lancaster",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lathrop.html",
+      "destination": "/locksmith-lathrop",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lawndale.html",
+      "destination": "/locksmith-lawndale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lemon-grove.html",
+      "destination": "/locksmith-lemon-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lemoore.html",
+      "destination": "/locksmith-lemoore",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lincoln.html",
+      "destination": "/locksmith-lincoln",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-livermore.html",
+      "destination": "/locksmith-livermore",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lodi.html",
+      "destination": "/locksmith-lodi",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lompoc.html",
+      "destination": "/locksmith-lompoc",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-long-beach.html",
+      "destination": "/locksmith-long-beach",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-los-altos.html",
+      "destination": "/locksmith-los-altos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-los-angeles.html",
+      "destination": "/locksmith-los-angeles",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-los-banos.html",
+      "destination": "/locksmith-los-banos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-los-gatos.html",
+      "destination": "/locksmith-los-gatos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-lynwood.html",
+      "destination": "/locksmith-lynwood",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-madera.html",
+      "destination": "/locksmith-madera",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-manhattan-beach.html",
+      "destination": "/locksmith-manhattan-beach",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-manteca.html",
+      "destination": "/locksmith-manteca",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-martinez.html",
+      "destination": "/locksmith-martinez",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-menifee.html",
+      "destination": "/locksmith-menifee",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-menlo-park.html",
+      "destination": "/locksmith-menlo-park",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-merced.html",
+      "destination": "/locksmith-merced",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-milpitas.html",
+      "destination": "/locksmith-milpitas",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-mission-viejo.html",
+      "destination": "/locksmith-mission-viejo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-modesto.html",
+      "destination": "/locksmith-modesto",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-monrovia.html",
+      "destination": "/locksmith-monrovia",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-montclair.html",
+      "destination": "/locksmith-montclair",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-montebello.html",
+      "destination": "/locksmith-montebello",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-monterey.html",
+      "destination": "/locksmith-monterey",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-monterey-park.html",
+      "destination": "/locksmith-monterey-park",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-moorpark.html",
+      "destination": "/locksmith-moorpark",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-moreno-valley.html",
+      "destination": "/locksmith-moreno-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-morgan-hill.html",
+      "destination": "/locksmith-morgan-hill",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-mountain-view.html",
+      "destination": "/locksmith-mountain-view",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-murrieta.html",
+      "destination": "/locksmith-murrieta",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-napa.html",
+      "destination": "/locksmith-napa",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-national-city.html",
+      "destination": "/locksmith-national-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-newark.html",
+      "destination": "/locksmith-newark",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-newport-beach.html",
+      "destination": "/locksmith-newport-beach",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-north-highlands.html",
+      "destination": "/locksmith-north-highlands",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-north-tustin.html",
+      "destination": "/locksmith-north-tustin",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-norwalk.html",
+      "destination": "/locksmith-norwalk",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-novato.html",
+      "destination": "/locksmith-novato",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-oakland.html",
+      "destination": "/locksmith-oakland",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-oakley.html",
+      "destination": "/locksmith-oakley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-oceanside.html",
+      "destination": "/locksmith-oceanside",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-oildale.html",
+      "destination": "/locksmith-oildale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-ontario.html",
+      "destination": "/locksmith-ontario",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-orange.html",
+      "destination": "/locksmith-orange",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-orangevale.html",
+      "destination": "/locksmith-orangevale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-orcutt.html",
+      "destination": "/locksmith-orcutt",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-oxnard.html",
+      "destination": "/locksmith-oxnard",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pacifica.html",
+      "destination": "/locksmith-pacifica",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-palm-desert.html",
+      "destination": "/locksmith-palm-desert",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-palm-springs.html",
+      "destination": "/locksmith-palm-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-palmdale.html",
+      "destination": "/locksmith-palmdale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-palo-alto.html",
+      "destination": "/locksmith-palo-alto",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-paramount.html",
+      "destination": "/locksmith-paramount",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pasadena.html",
+      "destination": "/locksmith-pasadena",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-perris.html",
+      "destination": "/locksmith-perris",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-petaluma.html",
+      "destination": "/locksmith-petaluma",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pico-rivera.html",
+      "destination": "/locksmith-pico-rivera",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pittsburg.html",
+      "destination": "/locksmith-pittsburg",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-placentia.html",
+      "destination": "/locksmith-placentia",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pleasant-hill.html",
+      "destination": "/locksmith-pleasant-hill",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pleasanton.html",
+      "destination": "/locksmith-pleasanton",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-pomona.html",
+      "destination": "/locksmith-pomona",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-porterville.html",
+      "destination": "/locksmith-porterville",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-poway.html",
+      "destination": "/locksmith-poway",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rancho-cordova.html",
+      "destination": "/locksmith-rancho-cordova",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rancho-cucamonga.html",
+      "destination": "/locksmith-rancho-cucamonga",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rancho-palos-verdes.html",
+      "destination": "/locksmith-rancho-palos-verdes",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rancho-santa-margarita.html",
+      "destination": "/locksmith-rancho-santa-margarita",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-redding.html",
+      "destination": "/locksmith-redding",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-redlands.html",
+      "destination": "/locksmith-redlands",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-redondo-beach.html",
+      "destination": "/locksmith-redondo-beach",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-redwood-city.html",
+      "destination": "/locksmith-redwood-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-reedley.html",
+      "destination": "/locksmith-reedley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rialto.html",
+      "destination": "/locksmith-rialto",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-richmond.html",
+      "destination": "/locksmith-richmond",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-ridgecrest.html",
+      "destination": "/locksmith-ridgecrest",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-riverside.html",
+      "destination": "/locksmith-riverside",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rocklin.html",
+      "destination": "/locksmith-rocklin",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rohnert-park.html",
+      "destination": "/locksmith-rohnert-park",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rosemead.html",
+      "destination": "/locksmith-rosemead",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-roseville.html",
+      "destination": "/locksmith-roseville",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-rowland-heights.html",
+      "destination": "/locksmith-rowland-heights",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-sacramento.html",
+      "destination": "/locksmith-sacramento",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-salinas.html",
+      "destination": "/locksmith-salinas",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-bernardino.html",
+      "destination": "/locksmith-san-bernardino",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-bruno.html",
+      "destination": "/locksmith-san-bruno",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-buenaventura.html",
+      "destination": "/locksmith-san-buenaventura",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-carlos.html",
+      "destination": "/locksmith-san-carlos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-clemente.html",
+      "destination": "/locksmith-san-clemente",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-diego.html",
+      "destination": "/locksmith-san-diego",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-dimas.html",
+      "destination": "/locksmith-san-dimas",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-francisco.html",
+      "destination": "/locksmith-san-francisco",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-gabriel.html",
+      "destination": "/locksmith-san-gabriel",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-jacinto.html",
+      "destination": "/locksmith-san-jacinto",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-jose.html",
+      "destination": "/locksmith-san-jose",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-juan-capistrano.html",
+      "destination": "/locksmith-san-juan-capistrano",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-leandro.html",
+      "destination": "/locksmith-san-leandro",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-lorenzo.html",
+      "destination": "/locksmith-san-lorenzo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-luis-obispo.html",
+      "destination": "/locksmith-san-luis-obispo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-marcos.html",
+      "destination": "/locksmith-san-marcos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-mateo.html",
+      "destination": "/locksmith-san-mateo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-pablo.html",
+      "destination": "/locksmith-san-pablo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-rafael.html",
+      "destination": "/locksmith-san-rafael",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-san-ramon.html",
+      "destination": "/locksmith-san-ramon",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-sanger.html",
+      "destination": "/locksmith-sanger",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-ana.html",
+      "destination": "/locksmith-santa-ana",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-barbara.html",
+      "destination": "/locksmith-santa-barbara",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-clara.html",
+      "destination": "/locksmith-santa-clara",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-clarita.html",
+      "destination": "/locksmith-santa-clarita",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-cruz.html",
+      "destination": "/locksmith-santa-cruz",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-maria.html",
+      "destination": "/locksmith-santa-maria",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-monica.html",
+      "destination": "/locksmith-santa-monica",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-paula.html",
+      "destination": "/locksmith-santa-paula",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santa-rosa.html",
+      "destination": "/locksmith-santa-rosa",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-santee.html",
+      "destination": "/locksmith-santee",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-saratoga.html",
+      "destination": "/locksmith-saratoga",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-seaside.html",
+      "destination": "/locksmith-seaside",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-simi-valley.html",
+      "destination": "/locksmith-simi-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-soledad.html",
+      "destination": "/locksmith-soledad",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-south-gate.html",
+      "destination": "/locksmith-south-gate",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-south-pasadena.html",
+      "destination": "/locksmith-south-pasadena",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-south-san-francisco.html",
+      "destination": "/locksmith-south-san-francisco",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-south-whittier.html",
+      "destination": "/locksmith-south-whittier",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-spring-valley.html",
+      "destination": "/locksmith-spring-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-stanton.html",
+      "destination": "/locksmith-stanton",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-stockton.html",
+      "destination": "/locksmith-stockton",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-suisun-city.html",
+      "destination": "/locksmith-suisun-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-sunnyvale.html",
+      "destination": "/locksmith-sunnyvale",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-temecula.html",
+      "destination": "/locksmith-temecula",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-temescal-valley.html",
+      "destination": "/locksmith-temescal-valley",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-temple-city.html",
+      "destination": "/locksmith-temple-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-thousand-oaks.html",
+      "destination": "/locksmith-thousand-oaks",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-torrance.html",
+      "destination": "/locksmith-torrance",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-tracy.html",
+      "destination": "/locksmith-tracy",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-tulare.html",
+      "destination": "/locksmith-tulare",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-turlock.html",
+      "destination": "/locksmith-turlock",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-tustin.html",
+      "destination": "/locksmith-tustin",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-twentynine-palms.html",
+      "destination": "/locksmith-twentynine-palms",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-union-city.html",
+      "destination": "/locksmith-union-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-upland.html",
+      "destination": "/locksmith-upland",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-vacaville.html",
+      "destination": "/locksmith-vacaville",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-vallejo.html",
+      "destination": "/locksmith-vallejo",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-victorville.html",
+      "destination": "/locksmith-victorville",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-vineyard.html",
+      "destination": "/locksmith-vineyard",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-visalia.html",
+      "destination": "/locksmith-visalia",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-vista.html",
+      "destination": "/locksmith-vista",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-walnut.html",
+      "destination": "/locksmith-walnut",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-walnut-creek.html",
+      "destination": "/locksmith-walnut-creek",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-wasco.html",
+      "destination": "/locksmith-wasco",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-watsonville.html",
+      "destination": "/locksmith-watsonville",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-west-covina.html",
+      "destination": "/locksmith-west-covina",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-west-hollywood.html",
+      "destination": "/locksmith-west-hollywood",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-west-sacramento.html",
+      "destination": "/locksmith-west-sacramento",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-west-whittier-los-nietos.html",
+      "destination": "/locksmith-west-whittier-los-nietos",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-westminster.html",
+      "destination": "/locksmith-westminster",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-westmont.html",
+      "destination": "/locksmith-westmont",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-whittier.html",
+      "destination": "/locksmith-whittier",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-wildomar.html",
+      "destination": "/locksmith-wildomar",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-windsor.html",
+      "destination": "/locksmith-windsor",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-woodland.html",
+      "destination": "/locksmith-woodland",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-yorba-linda.html",
+      "destination": "/locksmith-yorba-linda",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-yuba-city.html",
+      "destination": "/locksmith-yuba-city",
+      "permanent": true
+    },
+    {
+      "source": "/locksmith-yucaipa.html",
+      "destination": "/locksmith-yucaipa",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/rekeying-services.html",
+      "destination": "/rekeying-services",
+      "permanent": true
+    },
+    {
+      "source": "/residential-locksmith-services.html",
+      "destination": "/residential-locksmith-services",
+      "permanent": true
+    },
+    {
+      "source": "/safe-installation-and-repair.html",
+      "destination": "/safe-installation-and-repair",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    }
+  ]
+}
